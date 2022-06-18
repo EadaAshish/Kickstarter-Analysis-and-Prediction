@@ -26,4 +26,4 @@ Features collected included :
     Number of Comments,
     Number of Updates
    
-Using different Classification algorithms and Feature Selection ALgorithms were used to get the best possible performance out of the given algorithms. 
+Final Notebook shows the final results by using different Classification algorithms and Feature Selection ALgorithms were used to get the best possible performance out of the given algorithms. 
