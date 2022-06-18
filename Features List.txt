@@ -1,0 +1,23 @@
+Start Date of Project
+Deadline of Project
+Funding Goal of Project
+Category of project
+Country of the project
+Facebook URL
+Number of Projects created before
+Number of Projects backed before
+Number of words in project description
+Number of sentences in project description
+Average words per sentence in project description
+Readability test result for project description
+Number of words in pledge
+Readability test result for pledge
+Number of pledges
+min amount of pledge
+max amount of pledge
+Number of Comments
+Number of Updates
+
+
+univariate - one variable model
+Forward stepwise regression
